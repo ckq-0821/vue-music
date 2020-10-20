@@ -16,7 +16,7 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 
 [Element-ui](https://element.eleme.cn/#/zh-CN/component/quickstart)(轮播，分页，tab切换，图片懒加载)
 
-[Vuex（状态管理）](https://vuex.vuejs.org/zh/)
+[Vuex](https://vuex.vuejs.org/zh/)（状态管理）
 
 
 ## 进度
